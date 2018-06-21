@@ -2,4 +2,4 @@
 still a wip
 
 ## TODO
-[  ]include zprezto 
+[ ] include zprezto 
